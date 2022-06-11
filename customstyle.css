@@ -27,10 +27,9 @@ h1 {
     font-weight: 900;
 }
 h1 span {
-    margin-left: 1rem;
-    font-size: 1rem;
+    display: block;
+    font-size: 1.1rem;
     font-weight: 300;
-    visibility: hidden;
 }
 @media (max-width: 991px) {
     h1 {
